@@ -1,0 +1,15 @@
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\bin\Debug\net7.0\knighs-tour.exe
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\bin\Debug\net7.0\knighs-tour.deps.json
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\bin\Debug\net7.0\knighs-tour.runtimeconfig.json
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\bin\Debug\net7.0\knighs-tour.dll
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\bin\Debug\net7.0\knighs-tour.pdb
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.csproj.AssemblyReference.cache
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.AssemblyInfoInputs.cache
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.AssemblyInfo.cs
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.dll
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\refint\knighs-tour.dll
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.pdb
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\knighs-tour.genruntimeconfig.cache
+C:\Users\adiaz\Documents\Proyectos\knighs-tour\obj\Debug\net7.0\ref\knighs-tour.dll
